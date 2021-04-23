@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>喵2的小站</title>
+  <icon>https://www.meow-2.com/favicon.png</icon>
+  <subtitle>start my engine</subtitle>
+  <link href="https://www.meow-2.com/atom.xml" rel="self"/>
+  
+  <link href="https://www.meow-2.com/"/>
+  <updated>2021-04-23T05:54:57.714Z</updated>
+  <id>https://www.meow-2.com/</id>
+  
+  <author>
+    <name>Meow-2</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第10章 软件项目管理</title>
+    <link href="https://www.meow-2.com/share/software-engeering/software-engineering-10/"/>
+    <id>https://www.meow-2.com/share/software-engeering/software-engineering-10/</id>
+    <published>2020-08-04T03:04:00.000Z</published>
+    <updated>2021-04-23T05:54:57.714Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;终于，到最后，你也不愿陪我了吗？&lt;/p&gt;
+&lt;p&gt;对不起，软件工程，我什么也不想再看了啊:)&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="复习" scheme="https://www.meow-2.com/categories/%E5%A4%8D%E4%B9%A0/"/>
+    
+    <category term="软件工程" scheme="https://www.meow-2.com/categories/%E5%A4%8D%E4%B9%A0/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/"/>
+    
+    
+    <category term="软件工程" scheme="https://www.meow-2.com/tags/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第2章 可行性研究</title>
+    <link href="https://www.meow-2.com/share/software-engeering/software-engineering-2/"/>
+    <id>https://www.meow-2.com/share/software-engeering/software-engineering-2/</id>
+    <published>2020-08-01T14:54:00.000Z</published>
+    <updated>2021-04-23T05:54:57.714Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;第二章第二章第二章，时间不够了，编译原理感觉来不及复习了&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="复习" scheme="https://www.meow-2.com/categories/%E5%A4%8D%E4%B9%A0/"/>
+    
+    <category term="软件工程" scheme="https://www.meow-2.com/categories/%E5%A4%8D%E4%B9%A0/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/"/>
+    
+    
+    <category term="软件工程" scheme="https://www.meow-2.com/tags/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第3章 需求分析</title>
+    <link href="https://www.meow-2.com/share/software-engeering/software-engineering-3/"/>
+    <id>https://www.meow-2.com/share/software-engeering/software-engineering-3/</id>
+    <published>2020-08-04T02:52:00.000Z</published>
+    <updated>2021-04-23T05:54:57.714Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;第二章意外地少，第三章好像也不是特别多，要是全都这么少就好了！&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="复习" scheme="https://www.meow-2.com/categories/%E5%A4%8D%E4%B9%A0/"/>
+    
+    <category term="软件工程" scheme="https://www.meow-2.com/categories/%E5%A4%8D%E4%B9%A0/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/"/>
+    
+    
+    <category term="软件工程" scheme="https://www.meow-2.com/tags/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第4章 总体设计</title>
+    <link href="https://www.meow-2.com/share/software-engeering/software-engineering-4/"/>
+    <id>https://www.meow-2.com/share/software-engeering/software-engineering-4/</id>
+    <published>2020-08-04T02:57:00.000Z</published>
+    <updated>2021-04-23T05:54:57.714Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;好多啊，为什么全是这样那样的概念啊，记起来真不容易&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="复习" scheme="https://www.meow-2.com/categories/%E5%A4%8D%E4%B9%A0/"/>
+    
+    <category term="软件工程" scheme="https://www.meow-2.com/categories/%E5%A4%8D%E4%B9%A0/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/"/>
+    
+    
+    <category term="软件工程" scheme="https://www.meow-2.com/tags/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第5章 详细设计</title>
+    <link href="https://www.meow-2.com/share/software-engeering/software-engineering-5/"/>
+    <id>https://www.meow-2.com/share/software-engeering/software-engineering-5/</id>
+    <published>2020-08-04T02:58:00.000Z</published>
+    <updated>2021-04-23T05:54:57.714Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;第5章好像少了些，好耶！&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="复习" scheme="https://www.meow-2.com/categories/%E5%A4%8D%E4%B9%A0/"/>
+    
+    <category term="软件工程" scheme="https://www.meow-2.com/categories/%E5%A4%8D%E4%B9%A0/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/"/>
+    
+    
+    <category term="软件工程" scheme="https://www.meow-2.com/tags/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第6章 软件实现</title>
+    <link href="https://www.meow-2.com/share/software-engeering/software-engineering-6/"/>
+    <id>https://www.meow-2.com/share/software-engeering/software-engineering-6/</id>
+    <published>2020-08-04T03:00:00.000Z</published>
+    <updated>2021-04-23T05:54:57.714Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;第六章如此之少，我还专门为他创建了文件，我的温柔，你好强大！&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="复习" scheme="https://www.meow-2.com/categories/%E5%A4%8D%E4%B9%A0/"/>
+    
+    <category term="软件工程" scheme="https://www.meow-2.com/categories/%E5%A4%8D%E4%B9%A0/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/"/>
+    
+    
+    <category term="软件工程" scheme="https://www.meow-2.com/tags/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第7章 软件测试</title>
+    <link href="https://www.meow-2.com/share/software-engeering/software-engineering-7/"/>
+    <id>https://www.meow-2.com/share/software-engeering/software-engineering-7/</id>
+    <published>2020-08-04T03:01:00.000Z</published>
+    <updated>2021-04-23T05:54:57.714Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;再见了我的温柔，第七章简直长得死了🐎！&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="复习" scheme="https://www.meow-2.com/categories/%E5%A4%8D%E4%B9%A0/"/>
+    
+    <category term="软件工程" scheme="https://www.meow-2.com/categories/%E5%A4%8D%E4%B9%A0/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/"/>
+    
+    
+    <category term="软件工程" scheme="https://www.meow-2.com/tags/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第8章 软件维护</title>
+    <link href="https://www.meow-2.com/share/software-engeering/software-engineering-8/"/>
+    <id>https://www.meow-2.com/share/software-engeering/software-engineering-8/</id>
+    <published>2020-08-04T03:02:00.000Z</published>
+    <updated>2021-04-23T05:54:57.714Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;复习重点搞错了，前几章用了太多不该用的时间，好卑鄙的软件工程&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="复习" scheme="https://www.meow-2.com/categories/%E5%A4%8D%E4%B9%A0/"/>
+    
+    <category term="软件工程" scheme="https://www.meow-2.com/categories/%E5%A4%8D%E4%B9%A0/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/"/>
+    
+    
+    <category term="软件工程" scheme="https://www.meow-2.com/tags/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第9章 面向对象建模基础</title>
+    <link href="https://www.meow-2.com/share/software-engeering/software-engineering-9/"/>
+    <id>https://www.meow-2.com/share/software-engeering/software-engineering-9/</id>
+    <published>2020-08-04T03:03:00.000Z</published>
+    <updated>2021-04-23T05:54:57.714Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;UML,UML,UML(司马脸状&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="复习" scheme="https://www.meow-2.com/categories/%E5%A4%8D%E4%B9%A0/"/>
+    
+    <category term="软件工程" scheme="https://www.meow-2.com/categories/%E5%A4%8D%E4%B9%A0/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/"/>
+    
+    
+    <category term="软件工程" scheme="https://www.meow-2.com/tags/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>从零开始的Unity——unity安装记录</title>
+    <link href="https://www.meow-2.com/share/unity/Re-Unity-from-zero/"/>
+    <id>https://www.meow-2.com/share/unity/Re-Unity-from-zero/</id>
+    <published>2020-10-18T11:59:00.000Z</published>
+    <updated>2021-04-23T05:54:57.714Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;玩了好久了，现在也该开始做事了，既然决定毕业去做游戏引擎或技美，那不付出百分之二百的努力肯定是不行的，毕竟研究生带给我的喘息时间也就只有两年而已，成为大神什么的肯定是不可能，先努力用unity做好毕设吧！&lt;/p&gt;
+&lt;p&gt;这个系列为从零开始的unity学习之路记录&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="教程" scheme="https://www.meow-2.com/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="unity" scheme="https://www.meow-2.com/tags/unity/"/>
+    
+    <category term="C#" scheme="https://www.meow-2.com/tags/C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>第1章 软件工程学概述</title>
+    <link href="https://www.meow-2.com/share/software-engeering/software-engineering-1/"/>
+    <id>https://www.meow-2.com/share/software-engeering/software-engineering-1/</id>
+    <published>2020-07-28T10:17:00.000Z</published>
+    <updated>2021-04-23T05:54:57.714Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;每到期末我就会发病，对于我这种不上课的人来说，复习是真的难受，但又不得不复习。内心啊！快点强大起来吧！&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="复习" scheme="https://www.meow-2.com/categories/%E5%A4%8D%E4%B9%A0/"/>
+    
+    <category term="软件工程" scheme="https://www.meow-2.com/categories/%E5%A4%8D%E4%B9%A0/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/"/>
+    
+    
+    <category term="软件工程" scheme="https://www.meow-2.com/tags/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>从零开始搭建你的个人博客Hexo+Github Pages详解</title>
+    <link href="https://www.meow-2.com/share/tool/how-to-build-your-own-website-from-zero/"/>
+    <id>https://www.meow-2.com/share/tool/how-to-build-your-own-website-from-zero/</id>
+    <published>2020-06-29T18:14:00.000Z</published>
+    <updated>2021-04-23T05:54:57.714Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;前些天想搭个博客，记录各种各样的事，如今基本上完工力！happy!&lt;br&gt;所以写了这篇文章把整个流程梳理一遍，为了让后来的小伙伴们能轻松一点（网上一些教程只列出了步骤，跟着做的时候难免有些懵逼），所以我会尽力说明每个步骤是在干嘛，要达成一个怎样的效果。那么，开始吧！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;本文写作上尽量按照通俗的标准去写，细节上可能存在不严谨的地方，如有错误请一定要联系我，我会及时更正。另外我搭建博客的过程主要是参考了@云游君的文章,遇到问题也可以去这里看看。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="教程" scheme="https://www.meow-2.com/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="Hexo" scheme="https://www.meow-2.com/tags/Hexo/"/>
+    
+    <category term="Git" scheme="https://www.meow-2.com/tags/Git/"/>
+    
+    <category term="GitHub" scheme="https://www.meow-2.com/tags/GitHub/"/>
+    
+    <category term="Node.js" scheme="https://www.meow-2.com/tags/Node-js/"/>
+    
+  </entry>
+  
+</feed>
